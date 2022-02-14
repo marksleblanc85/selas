@@ -1,0 +1,65 @@
+/*  ==============================================
+
+Primary Color = #ff6000
+Primary Color - Hover = #ff3600
+
+============================================== */
+
+h4,
+a,
+.color-text,
+.button-dark,
+ul.nav li a:hover,
+ul.nav li.active a,
+.featured .event-recap div h3,
+.plan-price,
+.program table thead td h3,
+ul.downloads li a:hover,
+ul.downloads li a i,
+ul.nav li:hover > a,
+.teaser .text-container h1 {
+	color: #ff6000;
+}
+
+a:hover {
+	color: #ff3600;
+}
+
+.color-background,
+.button-dark:hover,
+.flex-control-paging li a.flex-active,
+.featured h2,
+.featured form input[type="submit"],
+.featured a.event-button,
+.testimonials .testimonial:hover .bubble,
+.plan .plan-title,
+.button-row a,
+.program table:hover thead td,
+.register form input[type="submit"],
+.contact form input[type="submit"],
+.social li a:hover,
+.feature:hover .icon-container {
+	background: #ff6000;
+}
+
+.checkbox-on .checkbox-placeholder,
+.gallery .image-container a,
+.prices a.ticket-button {
+	background-color: #ff6000;
+}
+
+.checkbox-on .checkbox-placeholder {
+	background-color: #ff6000 !important;
+}
+
+.featured form input[type="submit"]:hover,
+.featured a.event-button:hover,
+.prices .ticket:hover a.ticket-button,
+.register form input[type="submit"]:hover,
+.contact form input[type="submit"]:hover {
+	background: #ff3600;
+}
+
+.testimonials .testimonial:hover .bubble:after {
+	border-top-color: #ff6000;
+}

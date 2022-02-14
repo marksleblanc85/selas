@@ -1,0 +1,65 @@
+/*  ==============================================
+
+Primary Color = #3097be
+Primary Color - Hover = #207291
+
+============================================== */
+
+h4,
+a,
+.color-text,
+.button-dark,
+ul.nav li a:hover,
+ul.nav li.active a,
+.featured .event-recap div h3,
+.plan-price,
+.program table thead td h3,
+ul.downloads li a:hover,
+ul.downloads li a i,
+ul.nav li:hover > a,
+.teaser .text-container h1 {
+	color: #3097be;
+}
+
+a:hover {
+	color: #207291;
+}
+
+.color-background,
+.button-dark:hover,
+.flex-control-paging li a.flex-active,
+.featured h2,
+.featured form input[type="submit"],
+.featured a.event-button,
+.testimonials .testimonial:hover .bubble,
+.plan .plan-title,
+.button-row a,
+.program table:hover thead td,
+.register form input[type="submit"],
+.contact form input[type="submit"],
+.social li a:hover,
+.feature:hover .icon-container {
+	background: #3097be;
+}
+
+.checkbox-on .checkbox-placeholder,
+.gallery .image-container a,
+.prices a.ticket-button {
+	background-color: #3097be;
+}
+
+.checkbox-on .checkbox-placeholder {
+	background-color: #3097be !important;
+}
+
+.featured form input[type="submit"]:hover,
+.featured a.event-button:hover,
+.prices .ticket:hover a.ticket-button,
+.register form input[type="submit"]:hover,
+.contact form input[type="submit"]:hover {
+	background: #207291;
+}
+
+.testimonials .testimonial:hover .bubble:after {
+	border-top-color: #3097be;
+}
